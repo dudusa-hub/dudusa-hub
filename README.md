@@ -17,6 +17,10 @@ Olá, meu nome é Eduardo, tenho 18 anos, sou nascido em Brasília. Atualmente c
 
 ##
 
+</div>
+
+# 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="Python" 
@@ -24,4 +28,7 @@ Olá, meu nome é Eduardo, tenho 18 anos, sou nascido em Brasília. Atualmente c
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
+<br/>
+<br/>
