@@ -7,4 +7,4 @@ Olá, meu nome é Eduardo, tenho 18 anos, sou nascido em Brasília. Atualmente c
 ##
 
 <div>
-  <a href="https://www.youtube.com/@dudusa08" target-"_blank">cfag src="https://www.google.com/imgres?q=logo%20youtube&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F09%2FYouTube_full-color_icon_%25282017%2529.svg%2F3840px-YouTube_full-color_icon_%25282017%2529.svg.png&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AYouTube_full-color_icon_(2017).svg&docid=CN4JXqZ5n9M5KM&tbnid=AUUCRRZNVhtCVM&vet=12ahUKEwjtrZOx4bKUAxUeHbkGHXMXOtAQnPAOegQIGhAB..i&w=3840&h=2689&hcb=2&ved=2ahUKEwjtrZOx4bKUAxUeHbkGHXMXOtAQnPAOegQIGhAB"
+  <a href="https://www.youtube.com/@dudusa08" target-"_blank">cfag src="https://lens.usercontent.google.com/image?vsrid=CLWd1b-D04fSDxACGAEiJDFiODE1N2I0LTE3MTItNDk2MS04N2JhLWExNzc4YzgwNGMwNTJ7IgJjZygkQnMKLmxmZS1kdW1teTpjYzYzYTI2NS1jMmZjLTQ3OTctODJmMy02OTNjOTUwMWU5ODQSQQo_L2Jucy9jZy9ib3JnL2NnL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzg5ON7L6e_hspQD&gsessionid=_FexxuThbx7m852PsAi-WM5W_GvxwIPMGObN2zAkHJTmDAzSCAZNpw"
