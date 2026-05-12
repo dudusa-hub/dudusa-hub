@@ -14,4 +14,14 @@ Olá, meu nome é Eduardo, tenho 18 anos, sou nascido em Brasília. Atualmente c
   <a href="https://www.instagram.com/dudusa._/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
         alt="Instagram" width="40">
+
 ##
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+
