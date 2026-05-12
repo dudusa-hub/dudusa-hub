@@ -1,6 +1,6 @@
 # 👨‍💻 Eduardo Dias da Silva e Sá
 
-#''Desenvolvedor backend''#
+Desenvolvedor backend
 
 Olá, meu nome é Eduardo, tenho 18 anos, sou nascido em Brasília. Atualmente curso Engenharia de Software e sou grande fã de tecnologia e jogos, tendo eles bem presentes em minha vida. Tenho como objetivo seguir nessa área ate o fim de minha carreira profissional, e futuramente poder compartilhar essa experiência com mais pessoas, pelo meu canal. 
 
