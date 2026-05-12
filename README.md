@@ -7,9 +7,8 @@ Olá, meu nome é Eduardo, tenho 18 anos, sou nascido em Brasília. Atualmente c
 ##
 
 <div>
-   <a href="https://www.youtube.com/@dudusa08" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" 
-        alt="YouTube" width="40">
+   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" 
+alt="YouTube" width="40" style="margin-right: 20px;">
 
   <a href="https://www.instagram.com/dudusa._/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
